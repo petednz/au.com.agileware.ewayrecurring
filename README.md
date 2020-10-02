@@ -65,7 +65,7 @@ different method of authentication with eWay from that used in the 1.x series.
 
 You will need to Download and extract the extension as usual, and after running
 the Extensions upgrades, you will need to [generate an API Key and
-Password](https://go.way.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password)
+Password](https://go.eway.io/s/article/How-do-I-setup-my-Live-eWAY-API-Key-and-Password)
 as above and update these details in your Payment Processor settings.
 
 Once your authentication details are updated, existing recurring payments will
